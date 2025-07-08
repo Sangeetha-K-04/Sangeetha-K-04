@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **📧 Email: pearlynsangeetha.12@gmail.com**
 
-- 📄 Know about my experiences - 📧 **Email Spam Detection** — Built using Python, NLP, and TF-IDF with over more than 95% accuracy.
+- 📄 Know about my experiences
+   - 📧 **Email Spam Detection** — Built using Python, NLP, and TF-IDF with over more than 95% accuracy.
    - 📈 **Educational Dashboard** — Analyzed and visualized data records in Tableau. 
 
 - ⚡ Fun fact **- 🧠 I love figuring out insights hidden in messy data - ☕ I code best with coffee and lo-fi beats**
