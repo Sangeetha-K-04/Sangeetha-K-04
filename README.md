@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 Here's my [resume](https://drive.google.com/file/d/1EMYcKc1KhwUtqDyPp9Tgvy3T2KcO1SBk/view?usp=drive_link)
+- 🔭 Here's my [resume](https://drive.google.com/file/d/1R685QqVF59-6DAq5fYoEohYlbwjujvlC/view?usp=drive_link)
 
 - 🌱 I’m currently learning **to make data speak — learning how to clean it with Python, query it with SQL, and visualize it beautifully using Tableau and diving deeper into Machine Learning.**
 
